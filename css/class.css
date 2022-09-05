@@ -1,0 +1,28 @@
+
+h1{
+    color:red;
+    font-size: 16px;
+    background-color: black;
+}
+
+h1, h2, h3, p, pre {
+    background-color: aqua;
+    color: blueviolet;
+    }
+
+.brian{
+    color:blue;
+    font-size: 24px;
+}
+
+#myid{
+    color:brown;
+    font-size:xx-large;
+}
+
+a.nav {
+    background-color: black;
+    color: white;
+
+}
+
