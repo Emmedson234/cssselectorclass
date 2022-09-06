@@ -1,0 +1,47 @@
+* {
+    margin:0;
+    padding:0;
+}
+ nav {
+    background-color: rgba(10, 8, 158, 0.952);
+    height: 200px;
+    width: 100%;
+ }   
+
+ body {
+    background-image: url("irene.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ button {
+    background-color:  rgb(236, 231, 227);
+    color: rgb(5, 172, 55);
+ }
+    
+ul {
+    margin-left: 200px;
+}
+
+ul li {
+    list-style:none;
+    display:inline-block;
+    line-height: 50px;
+    
+    
+}
+.img {
+    width: 10%;
+    height: 60px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+ul li a {
+    text-decoration: none;
+    color: rgb(250, 254, 255);
+    padding: 0 20px;
+    display:flex;
+}
+ul li a:hover {
+    background-color:  rgb(12, 151, 31);
+    text-decoration:
+}
