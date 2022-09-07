@@ -6,12 +6,10 @@
     background-color: rgba(10, 8, 158, 0.952);
     height: 200px;
     width: 100%;
+    position: fixed;
  }   
 
- body {
-    background-image: url("irene.png");
-    background-repeat: no-repeat;
-    background-size: cover;
+
  }
  button {
     background-color:  rgb(236, 231, 227);
